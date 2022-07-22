@@ -1,0 +1,124 @@
+header {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.container-fluid a{
+    float:right;
+    overflow: fixed;
+}
+
+main {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-white-header {
+    width: 12rem;
+    padding: 0 0 0 0;
+    float: left;
+    overflow: auto;
+}
+
+.fondo_verde {
+    background-color: #28A745;
+}
+
+.card {
+    font-weight: 300;
+}
+
+.card i {
+    padding-top: 1rem;
+    overflow: auto;
+}
+
+.card h1 {
+    padding-top: 1rem;
+    text-align: right;
+    
+}
+
+.separacion {
+    padding-bottom: 4rem;
+}
+
+.precio h1{
+    overflow: hidden;
+    font-weight: 400;
+    margin: -1rem 0 1rem 0;
+    border-top: 1px;
+}
+
+.poferta {
+    color: #28A745;
+    float:right;
+    padding-right: 1rem;
+    font-size: 1.8rem;
+    
+}
+.pbase {
+    padding-right: 1rem;
+    font-size: 1.2rem;
+    color:#707070;
+}
+
+.direccion {
+    font-size: 0.8rem;
+    font-weight: 300;
+    margin: 0 0 1rem 1rem;
+    color: #707070;
+}
+
+.direccion i{
+    margin-top: -1rem;
+    float: left;
+}
+.direccion h1{
+    margin-top: -1rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #707070;
+    text-align: left;
+    float: left;
+}
+
+.card h5 {
+    font-size: 1.5rem;
+    margin-bottom: -1rem;
+}
+
+.card p {
+    color: #707070;
+    font-size: 1.2rem;
+    padding-top: 2rem;
+}
+
+.ancho_form {
+    margin-top: 1rem;
+    max-width: 100%;
+    color: white;
+    text-align: center;
+}
+.respuesta {
+    max-width: 72rem;
+    margin: 0 2rem 0 2rem;
+}
+
+.footer-center {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.footer-center h3{
+    color:#707070;
+    font-size: 1rem;
+}
+
+.img_footer {
+    padding-top: 2rem;
+    max-width: 6rem;
+}
